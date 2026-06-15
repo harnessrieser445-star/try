@@ -2,7 +2,7 @@
 // Using OpenWeatherMap API (Free tier)
 
 // Configuration
-const API_KEY = 'b0cfa02d42d2326bd1aedc46fe9367e5'; // Get free API key from https://openweathermap.org/api
+const API_KEY = 'b0cfa02d42d2326bd1aedc46fe9367e5'; 
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 const GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 
